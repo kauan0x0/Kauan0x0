@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado para poder me esp
 
 ## 🚀 Projetos em destaque
 
-- 🧮 Para iniciar meus estudos pretendo criar uma Calculadora de Orçamento Pessoal. (_Assim que possivel estarei disponíbilizando o link do projeto_)
+- 🧮 Para iniciar meus estudos criei uma Calculadora de Orçamento Pessoal. (_file:///C:/Users/kauan%20sousa/AppData/Local/Temp/Rar$EXa18136.10912.rartemp/Calculadora.html-main/index.html_)
 
 </div>
 
